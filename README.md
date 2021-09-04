@@ -7,7 +7,7 @@
 	2. These are the new changes that I made.
 - Commit message
 	 1. Initial commit
-	 2. Update README.md
+	 2. Update [README.md](README.md)
 	 3. Increasing readability by adding meaningful text and commit message
 
 <br>
