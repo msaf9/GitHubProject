@@ -1,4 +1,4 @@
-# Hello World
+# GitHub Project
 First GitHub Repository.
 
 ## Table of contents
@@ -9,7 +9,7 @@ First GitHub Repository.
 5. License
 
 ## Introduction
-My first GitHub remote repository.
+This is my first GitHub remote repository.
 
 ### Repository info
 This is my first commit and contribution.
@@ -31,8 +31,8 @@ This is my first commit and contribution.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/HelloWorld.git
-cd HelloWorld
+git https://github.com/msaf9/GitHubProject.git
+cd GitHubProject
 ```
 
 ## License
