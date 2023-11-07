@@ -1,4 +1,4 @@
-<h1> GitHub Project </h1>
+<h1> Git Project </h1>
 First GitHub Repository.
 
 - [Introduction](#introduction)
