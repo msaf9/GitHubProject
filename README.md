@@ -2,6 +2,7 @@
 First GitHub Repository.
 
 <h2>Table of content</h2>
+
 - [Introduction](#introduction)
   - [Repository info](#repository-info)
 - [Technologies](#technologies)
