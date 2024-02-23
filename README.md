@@ -43,8 +43,8 @@ This is my first commit and contribution.
 ### Get repository
 
 ```git
-git https://github.com/msaf9/git-project.git
-cd git-project
+git https://github.com/msaf9/first-github-repository.git
+cd first-github-repository
 ```
 
 ## License
