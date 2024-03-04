@@ -1,11 +1,11 @@
 <h1> Git Project </h1>
 First GitHub Repository.
 
-<h2>Table of content</h2>
+<h2>Table of contents</h2>
 
 - [Introduction](#introduction)
   - [Repository info](#repository-info)
-- [Technologies](#technologies)
+- [Technology Stack](#technology-stack)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -29,7 +29,7 @@ This is my first commit and contribution.
   3. Increasing readability by adding meaningful text and commit message.
   4. Added navigation in table of contents
 
-## Technologies
+## Technology Stack
 
 - Git
 - GitHub
